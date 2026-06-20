@@ -27,4 +27,4 @@ The objective is to identify purchasing patterns, customer trends, and business 
 
 ## Status
 
-Project in progress.
+Project complete
