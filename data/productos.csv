@@ -1,0 +1,11 @@
+"PRODUCTO_ID","NOMBRE_PRODUCTO","PRECIO","CATEGORIA_ID"
+1,"Transporte de contenedor",4500,1
+2,"Transporte de maquinaria",6200,1
+3,"Flete urbano",850,2
+4,"Flete departamental",1800,3
+5,"Entrega express 24h",1200,4
+6,"Carga refrigerada",3500,5
+7,"Transporte de combustible",7000,5
+8,"Mudanza empresarial",2800,2
+9,"Ruta Guatemala - Puerto Quetzal",3900,3
+10,"Ruta Guatemala - Izabal",5200,3
